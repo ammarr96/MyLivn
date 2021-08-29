@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyLivn</string>
+
+    <string name="no_data_text">No comics available</string>
+</resources>
